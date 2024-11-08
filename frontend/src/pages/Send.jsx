@@ -24,7 +24,6 @@ export const Send = () => {
             }
         })
         if(response.data.success){
-        toast.success(response.data.message)
         toast.success(`${amount}rs sent`)
         sound.play(); 
         }
