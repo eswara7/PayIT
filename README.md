@@ -2,6 +2,9 @@
 
 Welcome to **PayIT** – a user-friendly,reliable,and secure digital wallet solution!With PayIT,you can effortlessly manage your finances, make instant transfers,and enjoy a sleek, intuitive interface designed to simplify every transaction.
 
+https://github.com/user-attachments/assets/e0a14ef0-0c07-43c0-9e09-3e67a1c37b1d
+
+
 ---
 
 ## 🌟 Key Features
