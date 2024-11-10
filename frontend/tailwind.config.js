@@ -8,4 +8,5 @@ export default {
     extend: {},
   },
   plugins: [require('tailwindcss-motion')],
+  darkMode:'class'
 }

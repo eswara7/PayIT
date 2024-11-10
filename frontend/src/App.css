@@ -1,0 +1,5 @@
+/* index.css or App.css */
+body {
+    background-color: #1e293b;
+    transition: background-color 0.3s ease; 
+  }
